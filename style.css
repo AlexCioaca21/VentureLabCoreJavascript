@@ -1,0 +1,28 @@
+body {
+    /* background-image: url(images/netflix6.png); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  #main {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* #search {
+    border-radius: 50%;
+    height: 1000;
+    width: 1000;
+  } */
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
